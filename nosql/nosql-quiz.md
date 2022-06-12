@@ -130,7 +130,7 @@
 
 - [ ] keys
 - [ ] values
-- [x] scroes
+- [x] scores
 - [ ] ids
 
 #### Q20. Which statement is preferred Cypher code for Neo4j?
